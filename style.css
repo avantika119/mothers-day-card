@@ -1,0 +1,14 @@
+
+table,th,td{
+    border: 3px solid red;
+    width: 100%;
+}
+body{
+    text-align: center;
+    background-image: url(flowers.jpeg);
+    background-size: cover;
+}
+img{
+    height: 300px;
+    width: 300px;
+}
